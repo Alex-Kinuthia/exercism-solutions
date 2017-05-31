@@ -28,3 +28,12 @@ Problem 6 at Project Euler [http://projecteuler.net/problem=6](http://projecteul
 ## Submitting Incomplete Problems
 It's possible to submit an incomplete solution so you can see how others have completed the exercise.
 
+
+
+# pseudocode
+
+compute square of sum To
+
+compute sum of squares to
+
+compute differences of squares
